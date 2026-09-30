@@ -11,11 +11,11 @@
   "author": "AKP",
   "license": "ISC",
   "dependencies": {
-    "express": "4.17.1",
-    "hbs": "4.1.1",
+    "express": "4.22.0",
+    "hbs": "4.2.0",
     "postman-request": "2.88.1-postman.24"
   },
   "devDependencies": {
-    "nodemon": "2.0.4"
+    "nodemon": "2.0.22"
   }
 }
